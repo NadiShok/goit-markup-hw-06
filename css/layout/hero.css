@@ -9,7 +9,7 @@
     background-image: linear-gradient(to bottom,
             rgba(46, 47, 66, 0.70),
             rgba(46, 47, 66, 0.70)),
-        url(./images/hero/people-mobile.jpg);
+        url(../../images/hero/people-mobile.jpg);
     background-color: var(--grey, rgba(46, 47, 66, 0.70));
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -23,7 +23,7 @@ screen and (min-device-pixel-ratio: 2) and (max-width: 767px) {
         background-image: linear-gradient(to bottom,
                 rgba(46, 47, 66, 0.70),
                 rgba(46, 47, 66, 0.70)),
-            url(./images/hero/people-mobile@2x.jpg);
+            url(../../images/hero/people-mobile@2x.jpg);
     }
 }
 
@@ -75,7 +75,7 @@ screen and (min-device-pixel-ratio: 2) and (max-width: 767px) {
         background-image: linear-gradient(to bottom,
                 rgba(46, 47, 66, 0.70),
                 rgba(46, 47, 66, 0.70)),
-            url(./images/hero/people-tablet.jpg);
+            url(../../images/hero/people-tablet.jpg);
     }
 
     .section-hero-title {
@@ -94,7 +94,7 @@ screen and (min-device-pixel-ratio: 2) and (min-width: 768px) {
         background-image: linear-gradient(to bottom,
                 rgba(46, 47, 66, 0.70),
                 rgba(46, 47, 66, 0.70)),
-            url(./images/hero/people-tablet@2x.jpg);
+            url(../../images/hero/people-tablet@2x.jpg);
     }
 }
 
@@ -108,7 +108,7 @@ screen and (min-device-pixel-ratio: 2) and (min-width: 768px) {
         background-image: linear-gradient(to bottom,
                 rgba(46, 47, 66, 0.70),
                 rgba(46, 47, 66, 0.70)),
-            url(./images/hero/people-desktop.jpg);
+            url(../../images/hero/people-desktop.jpg);
     }
 
     .section-hero-title {
@@ -123,6 +123,6 @@ screen and (min-device-pixel-ratio: 2) and (min-width: 1158px) {
         background-image: linear-gradient(to bottom,
             rgba(46, 47, 66, 0.70),
             rgba(46, 47, 66, 0.70)),
-        url(./images/hero/people-desktop@2x.jpg);
+        url(../../images/hero/people-desktop@2x.jpg);
     }
 }

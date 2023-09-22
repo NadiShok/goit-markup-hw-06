@@ -4,7 +4,6 @@
     margin: 0 auto;
     padding: 96px 0;
     background: #2E2F42;
-    max-width: 768px;
 }
 
 .footer-wrapper {
@@ -161,10 +160,6 @@
 
 @media screen and (min-width: 768px) {
     
-    .footer {
-        max-width: 1157px;
-    }
-
     .footer-wrapper {
         display: flex;
         flex-direction: row;
@@ -211,7 +206,6 @@
 
     .footer {
         padding: 100px 0;
-        max-width: 1440px;
     }
 
     .footer-wrapper {
